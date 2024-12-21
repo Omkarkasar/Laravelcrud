@@ -1,0 +1,2 @@
+# Laravelcrud
+Simple Laravel CRUD
